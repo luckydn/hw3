@@ -1,0 +1,15 @@
+/Users/plohihsergey/Documents/GitHub/hw3/hw21/bin/Debug/net6.0/hw21
+/Users/plohihsergey/Documents/GitHub/hw3/hw21/bin/Debug/net6.0/hw21.deps.json
+/Users/plohihsergey/Documents/GitHub/hw3/hw21/bin/Debug/net6.0/hw21.runtimeconfig.json
+/Users/plohihsergey/Documents/GitHub/hw3/hw21/bin/Debug/net6.0/hw21.dll
+/Users/plohihsergey/Documents/GitHub/hw3/hw21/bin/Debug/net6.0/hw21.pdb
+/Users/plohihsergey/Documents/GitHub/hw3/hw21/obj/Debug/net6.0/hw21.csproj.AssemblyReference.cache
+/Users/plohihsergey/Documents/GitHub/hw3/hw21/obj/Debug/net6.0/hw21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/plohihsergey/Documents/GitHub/hw3/hw21/obj/Debug/net6.0/hw21.AssemblyInfoInputs.cache
+/Users/plohihsergey/Documents/GitHub/hw3/hw21/obj/Debug/net6.0/hw21.AssemblyInfo.cs
+/Users/plohihsergey/Documents/GitHub/hw3/hw21/obj/Debug/net6.0/hw21.csproj.CoreCompileInputs.cache
+/Users/plohihsergey/Documents/GitHub/hw3/hw21/obj/Debug/net6.0/hw21.dll
+/Users/plohihsergey/Documents/GitHub/hw3/hw21/obj/Debug/net6.0/refint/hw21.dll
+/Users/plohihsergey/Documents/GitHub/hw3/hw21/obj/Debug/net6.0/hw21.pdb
+/Users/plohihsergey/Documents/GitHub/hw3/hw21/obj/Debug/net6.0/hw21.genruntimeconfig.cache
+/Users/plohihsergey/Documents/GitHub/hw3/hw21/obj/Debug/net6.0/ref/hw21.dll

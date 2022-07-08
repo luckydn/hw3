@@ -1,0 +1,15 @@
+/Users/plohihsergey/Documents/GitHub/hw3/hw23/obj/Debug/net6.0/hw23.csproj.AssemblyReference.cache
+/Users/plohihsergey/Documents/GitHub/hw3/hw23/obj/Debug/net6.0/hw23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/plohihsergey/Documents/GitHub/hw3/hw23/obj/Debug/net6.0/hw23.AssemblyInfoInputs.cache
+/Users/plohihsergey/Documents/GitHub/hw3/hw23/obj/Debug/net6.0/hw23.AssemblyInfo.cs
+/Users/plohihsergey/Documents/GitHub/hw3/hw23/obj/Debug/net6.0/hw23.csproj.CoreCompileInputs.cache
+/Users/plohihsergey/Documents/GitHub/hw3/hw23/bin/Debug/net6.0/hw23
+/Users/plohihsergey/Documents/GitHub/hw3/hw23/bin/Debug/net6.0/hw23.deps.json
+/Users/plohihsergey/Documents/GitHub/hw3/hw23/bin/Debug/net6.0/hw23.runtimeconfig.json
+/Users/plohihsergey/Documents/GitHub/hw3/hw23/bin/Debug/net6.0/hw23.dll
+/Users/plohihsergey/Documents/GitHub/hw3/hw23/bin/Debug/net6.0/hw23.pdb
+/Users/plohihsergey/Documents/GitHub/hw3/hw23/obj/Debug/net6.0/hw23.dll
+/Users/plohihsergey/Documents/GitHub/hw3/hw23/obj/Debug/net6.0/refint/hw23.dll
+/Users/plohihsergey/Documents/GitHub/hw3/hw23/obj/Debug/net6.0/hw23.pdb
+/Users/plohihsergey/Documents/GitHub/hw3/hw23/obj/Debug/net6.0/hw23.genruntimeconfig.cache
+/Users/plohihsergey/Documents/GitHub/hw3/hw23/obj/Debug/net6.0/ref/hw23.dll

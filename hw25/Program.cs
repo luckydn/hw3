@@ -19,4 +19,4 @@ int degree(int number1, int number2)
 }
 
 int deegreeAB = degree(A, B);
-Console.WriteLine(deegreeAB);
+Console.WriteLine($"{A}^{B} = {deegreeAB}");

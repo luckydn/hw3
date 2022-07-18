@@ -57,16 +57,6 @@ void print2DArray(double[,] Array)
     }
 }
 
-// void printMyArray(double[,] array)
-// {
-//     for (int i = 0; i < array.GetLength(0); i++)
-//     {
-//         for (int j = 0; j < array.GetLength(1); j++)
-//             Console.Write(array[i, j]);
-//             Console.Write("\t");
-//     }
-//     Console.Write("\t");
-// }
 
 double[,] myNewArray = newArray(m, n, 100);
 print2DArray(myNewArray);

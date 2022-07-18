@@ -58,26 +58,6 @@ void printMyArray(double[,] array)
     }
 }
 
-// void resultNumberElement(double[,] array, int number)
-// {
-//     int count = 0;
-//     for (int i = 0; i < array.GetLength(0); i++)
-//     {
-//         for (int j = 0; j < array.GetLength(1); j++)
-//         {
-//             count++;
-//             if (count == number)
-//             {
-//                 Console.Write($"Значение {number}-го элемента, равно -> {array[i, j]}");
-//             }
-//             else if(number > (array.GetLength(0) * array.GetLength(1)))
-//             {
-//                 Console.Write("такого числа в массиве нет");
-//             }
-//         }
-//     }
-// }
-
 void resultNumberElement(double[,] array, int number)
 {
     int count = 0;

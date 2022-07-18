@@ -69,8 +69,9 @@ void resultNumberElement(double[,] array, int number)
             {
                 count++;
                 if(count==number)
-                Console.Write($"Значение {number}-го элемента, равно -> {array[i, j]}");
-
+                {
+                    Console.Write($"Значение {number}-го элемента, равно -> {array[i, j]}");
+                }
             }
         }
     }
